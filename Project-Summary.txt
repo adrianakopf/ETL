@@ -1,0 +1,6 @@
+Project Summary:
+Top 1000 IMDb Movies
+
+https://www.imdb.com
+Scrapped movies with desired information from the website. Used browser to click next pages to load and scrape all necessary data.
+Scrapped date was put into Pandas DataFrame, then information was cleaned, displayed and saved into an excel spreadsheet.  
